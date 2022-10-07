@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "242083352135",
+    "project_id": "demonstracaoleituradados-6a208",
+    "storage_bucket": "demonstracaoleituradados-6a208.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242083352135:android:f985996cb78fd9819b6b62",
+        "android_client_info": {
+          "package_name": "ads.pdm.demonstracaoleiturafirebase2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "242083352135-5cc81vjlj5bavki7o9dpgcj3r3g48k6s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx72rT_bx_2ogt26OunZcmRZN0DZr6YSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "242083352135-5cc81vjlj5bavki7o9dpgcj3r3g48k6s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
